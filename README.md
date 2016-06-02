@@ -3,6 +3,17 @@ Edirom-Editor
 
 Edirom Editor (a web technology based client application wrapped into an Eclipse RCP container) is an editor with which digital music editions are prepared.
 
+## Edirom Editor 1.1.16 (2011-11-18)
+
+* Export in die Edirom-Anzeige stark überarbeitet
+	* neue ID-Strukturen
+	* Fehlerbehebungen
+	* BarGroups in Anmerkungen (ein Symbol bei zusammenhängenden Takten)
+	* Quellendatierung kann beliebigen Wert enthalten
+* Menü-Eintrag für das Neu-Laden von Fensterinhalten
+* Geschwindigkeitsverbesserungen durch komprimierte Javascript- und CSS-Dateien
+* Satz-Filter für Takte in Synopse
+
 ## Edirom Editor 1.1.15 (2011-11-07)
 
 * Für den Editor ist nun eine aktive Internetverbindung nicht mehr nötig. Es könnte sein, dass das Programm über den Menüpunkt Extras -> Zurücksetzen und Neustarten neu gestartet werden muss, damit die Änderungen wirksam werden.
