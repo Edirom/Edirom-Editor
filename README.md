@@ -3,6 +3,11 @@ Edirom-Editor
 
 Edirom Editor (a web technology based client application wrapped into an Eclipse RCP container) is an editor with which digital music editions are prepared.
 
+## Edirom Editor 1.1.17 (2011-11-29)
+
+* Ex- und Import einzelner Quellen wieder über das Menü "Extras" möglich. Dieses Feature ist noch im Beta-Stadium, es sollte also vor einem Import immer ein Backup angelegt werden.
+* Im Menü "Extras" lassen sich unter "Bildbestand aufräumen..." die in der Installation enthaltenen Bilder entfernen, die keine Referenz in den Notentexten haben. Das sollte versehentlich nicht gelöschte Bilder aus der Installation entfernen.
+
 ## Edirom Editor 1.1.16 (2011-11-18)
 
 * Export in die Edirom-Anzeige stark überarbeitet
