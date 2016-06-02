@@ -3,6 +3,11 @@ Edirom-Editor
 
 Edirom Editor (a web technology based client application wrapped into an Eclipse RCP container) is an editor with which digital music editions are prepared.
 
+## Edirom Editor 1.1.24 (2013-06-25)
+
+* Fehler beim Export zu Edirom Online behoben: Die Namen der Werke wurden nicht in den Navigator eingetragen
+* Vergabe der Editions-ID beim Export in Edirom Online geändert: die ID setzt sich nun aus "edition-" und dem beim Export angegebenen Namen der Edition zusammen (z.B. Name der Edition: "sarti" -> Editions-ID: edition-sarti). Dadurch bleiben die XML-Dateien über mehrere Exporte vergleichbar, da nicht sämtliche Referenzen auf die Bilder neu generiert werden.
+
 ## Edirom Editor 1.1.23 (2013-01-17)
 
 * Automatische Bildverkleinerung nach Programmstart um eine halbe Minute verzögert. Hier traten Probleme auf, wenn Bilder manuell ausgetauscht wurden.
