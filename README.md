@@ -3,6 +3,11 @@ Edirom-Editor
 
 Edirom Editor (a web technology based client application wrapped into an Eclipse RCP container) is an editor with which digital music editions are prepared.
 
+## Edirom Editor 1.1.26 (2014-08-26)
+
+* Fehler beim Wiederherstellen eines Backups aus einem zip-Archiv behoben
+* Probleme mit Sonderzeichen in Pfaden unter Windows behoben
+
 ## Edirom Editor 1.1.25 (2013-08-05)
 
 * Export in Edirom Online auf MEI 2013 aktualisiert
