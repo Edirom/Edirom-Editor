@@ -3,6 +3,8 @@ Edirom-Editor
 
 Edirom Editor (a web technology based client application wrapped into an Eclipse RCP container) is an editor with which digital music editions are prepared.
 
+You need a 32bit Java installed in order to run the application.
+
 ## Edirom Editor 1.1.26 (2014-08-26)
 
 * Fehler beim Wiederherstellen eines Backups aus einem zip-Archiv behoben
